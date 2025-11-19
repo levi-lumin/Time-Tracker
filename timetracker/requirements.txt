@@ -1,6 +1,0 @@
-# Time Tracker - No external dependencies required for running
-# Uses only Python standard library (tkinter, json, os, datetime, threading, time)
-
-# For building executable (optional):
-# pyinstaller>=5.0
-
